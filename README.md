@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# SmartStock
 Smart Inventory and Order Management System
 
@@ -15,3 +16,6 @@ SmartStock is a full-stack inventory and order management system designed to man
 - Docker
 - Docker Compose
 - GitHub Actions
+=======
+# smartstock
+>>>>>>> 7df8e21798ac6493e3466229c79b7423f8939b50
